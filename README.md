@@ -1,4 +1,5 @@
 # awesome-online-calculators
+• UK tax calculator – https://mini-tools.uk/tax
 Useful online calculators
 
 • Percentage calculator – https://calcmulti.com/percentage-calculator
